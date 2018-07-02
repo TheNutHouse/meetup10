@@ -11,7 +11,7 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 ## Speakers:
 
 1. Vignesh T.V. | Ramco Systems
-2. Mohan Sundar | Student
+2. Mohana Sundar | Student
 
 ## Agenda:
 
